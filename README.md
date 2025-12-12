@@ -1,3 +1,10 @@
+<div align="center">
+    <em>The video quality is compressed for loading speed.</em>
+  
+  https://github.com/user-attachments/assets/c65514a0-4289-4012-94b8-9d0a2b35e8e7
+  
+</div>
+
 <h1 align="center">
 <p align="center"><a href="https://VIPL-GENUN.github.io/Project-JoPano"><img src="assets/logo.png" width="166"></a></p>
 
