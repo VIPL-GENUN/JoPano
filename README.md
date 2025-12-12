@@ -1,11 +1,11 @@
 <p align="center">
-    <video src="./assets/teaser_video.mp4"
-           controls
-           muted
-           loop
-           playsinline
-           style="width: 100%;">
-    </video>
+  <video controls
+         muted
+         loop
+         playsinline
+         style="max-width: 100%; height: auto;">
+    <source src="assets/teaser.mp4" type="video/mp4">
+  </video>
 </p>
 
 <h1 align="center">
