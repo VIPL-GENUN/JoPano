@@ -39,9 +39,9 @@ This project is built upon [Sana](https://github.com/NVlabs/Sana). Thanks for th
 If you find this project helpful, please consider citing:
 
 ```bibtex
-@article{JoPano2025,
+@article{feng2025jopano,
   title={JoPano: Unified Panorama Generation via Joint Modeling},
-  author={Wancheng Feng, Chen An, Zhenliang He, Meina Kan, Shiguang Shan, Lukun Wang},
+  author={Feng, Wancheng and An, Chen and He, Zhenliang and Kan, Meina and Shan, Shiguang and Wang, Lukun},
   journal={arXiv preprint arXiv:2512.06885},
   year={2025}
 }
