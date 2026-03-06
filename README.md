@@ -42,7 +42,7 @@ If you find this project helpful, please consider citing:
 @article{feng2025jopano,
   title={JoPano: Unified Panorama Generation via Joint Modeling},
   author={Feng, Wancheng and An, Chen and He, Zhenliang and Kan, Meina and Shan, Shiguang and Wang, Lukun},
-  journal={arXiv preprint arXiv:2512.06885},
+  journal={arXiv:2512.06885},
   year={2025}
 }
 ```
